@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Realistic {
 
     /**
@@ -17,4 +19,10 @@ public class Realistic {
         }
         return arr[index_smallest];
     } // method getSmallest
+
+    public static void main(String[] args) {
+        int[] testArray = {10, -5, 11, 2};
+        System.out.println(getSmallest(testArray));
+        System.out.println(Arrays.toString(testArray));
+    }
 }
