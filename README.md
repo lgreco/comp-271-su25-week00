@@ -1,1 +1,3 @@
-# comp-271-su25-week00
+# COMP 271 SU25 WEEK 00
+
+A simple discussion on realistic data structures
