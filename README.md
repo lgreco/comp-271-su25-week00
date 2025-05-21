@@ -17,4 +17,4 @@ Add a method with the following header to class `Realistic`:
 ```java
 public static void add(int value)
 ```
-This method should increase the size of the array `arr` by one element and insert the given `value` into the last position of the new array. Ensure the rest of the original array remains intact.
+This method should increase the size of the array `arr` by one element and insert the given `value` into the last position of the enlarged array. Ensure the rest of the original array remains intact.
