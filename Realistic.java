@@ -49,11 +49,11 @@ public class Realistic {
          * int temp_index = 0;
          * int arr_index = 0;
          * while (arr_index < arr.length) {
-         * if (arr_index != smallest_index) {
-         * temporary[temp_index] = arr[arr_index];
-         * temp_index++;
-         * }
-         * arr_index++;
+         *   if (arr_index != smallest_index) {
+         *     temporary[temp_index] = arr[arr_index];
+         *     temp_index++;
+         *   }
+         *   arr_index++;
          * }
          */
 
